@@ -1,5 +1,3 @@
-# -Employee-Salary-Analysis-and-Insights
-
 ## Project Overview
 In this project, I performed an in-depth analysis on a dataset representing anonymized employee data to identify factors influencing salary. This blind analysis, conducted for an auditing client, required inferring data labels, understanding industry implications, and predicting salary determinants.
 
